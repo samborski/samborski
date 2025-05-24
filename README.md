@@ -1,7 +1,7 @@
 ---
 name: Daniel Gustavo Samborski
 title: Técnico en Informática y Electricidad Domiciliaria
-location: Villa Gobernador Gálvez, Argentina
+location: Argentina
 website: samborski.github.io/curriculum
 ---
 
